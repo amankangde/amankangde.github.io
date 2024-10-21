@@ -1,1 +1,34 @@
-theme: Architect
+# Site settings
+title: My GitHub Pages Website
+description: Welcome to my GitHub Pages site using the Architect theme.
+baseurl: "" # the subpath of your site, e.g. "/blog"
+url: "https://yourusername.github.io" # the URL of your site
+
+# Theme settings
+theme: jekyll-theme-architect
+
+# Optional settings
+author: Your Name
+email: youremail@example.com
+twitter_username: your_twitter
+github_username: yourusername
+
+# Social links
+social_links:
+  - name: GitHub
+    url: https://github.com/yourusername
+  - name: Twitter
+    url: https://twitter.com/your_twitter
+
+# Other optional configurations
+# Enable Google Analytics by providing your tracking ID
+# google_analytics: UA-XXXXXXXX-X
+
+# Enable Disqus comments by providing your Disqus shortname
+# disqus: your-disqus-shortname
+
+# Pagination settings (optional)
+paginate: 5 # Number of posts per page
+
+# Markdown settings
+markdown: kramdown
