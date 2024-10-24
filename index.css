@@ -1,0 +1,218 @@
+.homepage-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.homepage-homepage {
+  width: 100%;
+  height: 3240px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(50, 50, 50, 1);
+}
+.homepage-footer {
+  top: 2700px;
+  left: 0px;
+  width: 1920px;
+  height: 540px;
+  position: absolute;
+}
+.homepage-header {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1000px;
+  position: absolute;
+  border-radius: 0 0 30px 30px;
+}
+.homepage-poster1 {
+  top: 125px;
+  left: 109px;
+  width: 320px;
+  height: 750px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-poster2 {
+  top: 0px;
+  left: 0px;
+  width: 320px;
+  height: 750px;
+  position: absolute;
+  border-radius: 15px;
+}
+.homepage-photo-frame {
+  top: 40px;
+  left: 40px;
+  width: 240px;
+  height: 290px;
+  position: absolute;
+  border-radius: 15px;
+}
+.homepage-text10 {
+  top: 350px;
+  left: 58px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Demibold;
+  text-align: left;
+  font-family: Lucida Bright;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text12 {
+  top: 397px;
+  left: 84px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lucida Bright;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text14 {
+  top: 513px;
+  left: 39px;
+  color: rgba(0, 0, 0, 1);
+  width: 250px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Demibold;
+  text-align: left;
+  font-family: Lucida Bright;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-orange-cube1 {
+  top: 525px;
+  left: 585px;
+  width: 350px;
+  height: 370px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-orange-cube2 {
+  top: 0px;
+  left: 0px;
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  border-radius: 15px;
+}
+.homepage-unity-logo1 {
+  top: 128px;
+  left: 34px;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+}
+.homepage-text18 {
+  top: 190px;
+  left: 19px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-green-cube1 {
+  top: 525px;
+  left: 1062px;
+  width: 500px;
+  height: 350px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-green-cube2 {
+  top: 0px;
+  left: 0px;
+  width: 500px;
+  height: 350px;
+  position: absolute;
+  border-radius: 15px;
+}
+.homepage-unity-logo2 {
+  top: 128px;
+  left: 27px;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+}
+.homepage-text26 {
+  top: 150px;
+  left: 27px;
+  color: rgba(0, 0, 0, 1);
+  width: 427px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text28 {
+  top: 267px;
+  left: 585px;
+  color: rgba(69, 67, 70, 1);
+  width: 1226px;
+  height: auto;
+  position: absolute;
+  font-size: 120px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Tilt Warp;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text32 {
+  top: 125px;
+  left: 585px;
+  color: rgba(255, 255, 255, 1);
+  width: 1226px;
+  height: auto;
+  position: absolute;
+  font-size: 120px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Tilt Warp;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
