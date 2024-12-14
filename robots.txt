@@ -1,4 +1,4 @@
 User-agent: Googlebot
 Allow: /
 
-Sitemap: https://amankangde.github.io/amankangde.xml
+Sitemap: https://amankangde.github.io/sitemap.xml
